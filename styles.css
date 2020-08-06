@@ -1,0 +1,25 @@
+body{
+  background-color: #a6b1e1;
+}
+h1{
+  font-family: 'Bangers', cursive;
+  font-size: 6rem;
+}
+footer{
+  font-size:2rem;
+  color:white;
+  padding-top:4%;
+}
+.container{
+  text-align: center;
+  padding-top:3%;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3rem;
+  color:#142850;
+}
+.row{
+  margin:5% auto 5% auto;
+}
+img{
+  width:40%;
+}
